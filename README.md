@@ -1,7 +1,7 @@
-# E-COMMERCE SITE 
-This project is about E-com site Template using REACT JS
+# Shopping Cart
+This project is about a Shopping Cart site Template using REACT JS
 
-OUTPUT - https://sha-alfa-ecom.netlify.app
+OUTPUT - https://pratheek-shopping-cart.netlify.app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
